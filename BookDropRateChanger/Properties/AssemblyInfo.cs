@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Tana")]
 [assembly: AssemblyProduct("Book Drop Rate Changer")]
-[assembly: AssemblyCopyright("Copyright © 2021-2022 Tana")]
+[assembly: AssemblyCopyright("Copyright ©2022 Tana")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

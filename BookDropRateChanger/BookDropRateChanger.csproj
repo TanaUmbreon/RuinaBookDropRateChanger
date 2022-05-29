@@ -7,8 +7,8 @@
     <ProjectGuid>{CFA2FBFC-A2F5-4D2C-A242-3000486B8CBC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RuinaBookDropRateChanger</RootNamespace>
-    <AssemblyName>RuinaBookDropRateChanger</AssemblyName>
+    <RootNamespace>BookDropRateChanger</RootNamespace>
+    <AssemblyName>BookDropRateChanger</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
