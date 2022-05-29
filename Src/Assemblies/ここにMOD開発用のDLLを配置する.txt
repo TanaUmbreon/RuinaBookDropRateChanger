@@ -1,0 +1,11 @@
+このフォルダに以下のMOD開発用DLLファイルを配置することで、各プロジェクトでの参照が有効となります。
+以下のDLLはオープンソースでないため、各自でゲーム本体のインストール先からコピペして配置してください。
+
+Assembly-CSharp.dll
+
+以下のDLLはオープンソースのため、あらかじめ配置済みです。
+
+0Harmony.dll
+Mono.Cecil.dll
+MonoMod.RuntimeDetour.dll
+MonoMod.Utils.dll
