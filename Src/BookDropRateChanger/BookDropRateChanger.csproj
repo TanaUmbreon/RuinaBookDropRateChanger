@@ -53,4 +53,9 @@
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>:: 特定のXMLドキュメントは不要
+del /q "$(TargetDir)Newtonsoft.Json.xml"
+</PostBuildEvent>
+  </PropertyGroup>
 </Project>
