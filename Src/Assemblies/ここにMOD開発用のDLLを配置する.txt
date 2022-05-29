@@ -9,3 +9,4 @@ Assembly-CSharp.dll
 Mono.Cecil.dll
 MonoMod.RuntimeDetour.dll
 MonoMod.Utils.dll
+Newtonsoft.Json.dll
