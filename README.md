@@ -25,7 +25,7 @@
 
 ## ダウンロード・リリースノート
 
-[「Releases」ページ](https://github.com/TanaUmbreon/RuinaBookDropRateChanger/releases) を参照してください。
+「Releases」ページ ~~を参照してください。~~ の準備はまだですわよ。
 
 ## フォルダ構成
 
