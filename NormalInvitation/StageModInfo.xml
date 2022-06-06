@@ -5,14 +5,17 @@
     <ID>BookDropRateChanger</ID>
     <Title>Book Drop Rate Changer</Title>
     <Description>敵が落とす本の数を増減させるチート系MODです。
+(This mod is a cheat mod that increases or decreases the number of books dropped by enemies.)
 
 既定では2倍の数の本を落とすようになりますが、
-この倍率はユーザー側で任意にカスタマイズすることができます。
+この倍率はユーザー側で任意にカスタマイズすることもできます。
+(The default is to drop 2x number of books, but you may customize this multiplier as you wish.)
 
 カスタマイズ方法については、当MODのインストール先フォルダーに
-付属しているREADMEをご確認ください。
+付属している「README(xx).txt」をご確認ください。
+(Please refer to the "README(xx).txt" included in the folder in which the mod is installed for information on how to customize it.)
 
-Version 2.0.0
+MOD Version 2.0.0
 Copyright © Tana 2022</Description>
     <Tag />
     <PreviewImage />

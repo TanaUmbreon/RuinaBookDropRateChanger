@@ -8,7 +8,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3EE4F237-AA36-4518-8CF0-8664038F86C0}"
 	ProjectSection(SolutionItems) = preProject
 		..\LICENSE = ..\LICENSE
+		..\MEMO.md = ..\MEMO.md
 		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NormalInvitation", "NormalInvitation", "{72B402B2-0A15-46F8-BA51-1BE25428E52A}"
+	ProjectSection(SolutionItems) = preProject
+		..\NormalInvitation\README(en).txt = ..\NormalInvitation\README(en).txt
+		..\NormalInvitation\README(ja).txt = ..\NormalInvitation\README(ja).txt
+		..\NormalInvitation\StageModInfo.xml = ..\NormalInvitation\StageModInfo.xml
 	EndProjectSection
 EndProject
 Global
@@ -24,6 +32,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{72B402B2-0A15-46F8-BA51-1BE25428E52A} = {3EE4F237-AA36-4518-8CF0-8664038F86C0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {223FBB2F-7F70-4394-91AC-6846E10CD759}
