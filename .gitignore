@@ -350,7 +350,7 @@ MigrationBackup/
 .ionide/
 
 # カスタム設定
-**/Assemblies/*.dll
+Assemblies/
 # オープンソースのDLLは管理対象に含める
 !Src/Assemblies/0Harmony.dll
 !Src/Assemblies/Mono.Cecil.dll
