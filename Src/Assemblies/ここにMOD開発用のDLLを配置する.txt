@@ -2,6 +2,7 @@
 以下のDLLはオープンソースでないため、各自でゲーム本体のインストール先からコピペして配置してください。
 
 Assembly-CSharp.dll
+UnityEngine.CoreModule.dll
 
 以下のDLLはオープンソースのため、あらかじめ配置済みです。
 
